@@ -1,4 +1,4 @@
-package pl.sternik.kk.kawiarnia.napoje;
+package pl.sternik.pb.kawiarnia.napoje;
 
 public enum NapojeTypy {
     Kawa, Czekolada;
