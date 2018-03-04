@@ -20,6 +20,6 @@ public class Mleko extends NapojDekorator {
     }
 	@Override
 	public String toString() {
-		return "ML [nazwa()=" + getNazwa() + ", cena=" + getCena() + "]";
+		return "Mleko [nazwa()=" + getNazwa() + ", cena=" + getCena() + "]";
 	}
 }

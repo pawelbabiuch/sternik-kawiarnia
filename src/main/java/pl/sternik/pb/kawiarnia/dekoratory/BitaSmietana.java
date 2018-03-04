@@ -23,6 +23,6 @@ public class BitaSmietana extends NapojDekorator{
 
 	@Override
 	public String toString() {
-		return "BS [nazwa()=" + getNazwa() + ", cena=" + getCena() + "]";
+		return "Bita Smietana [nazwa()=" + getNazwa() + ", cena=" + getCena() + "]";
 	}
 }
